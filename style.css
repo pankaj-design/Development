@@ -1,0 +1,27 @@
+.container{
+    background-image: url("https://image.shutterstock.com/image-photo/abstract-dark-gray-template-blank-260nw-1011961660.jpg");
+    background-size: cover;
+}
+.d1{
+    color: rgb(205, 225, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+.d2{
+    color: aqua;
+}
+.d3{
+    color:rgb(43, 61, 226);
+    font-family: 'Times New Roman', Times, serif;
+}
+.d4{
+    color: rgb(30, 210, 186);
+}
+.d5{
+    color: rgb(30, 210, 186);
+}
+h3{
+    color: cornsilk;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+              
